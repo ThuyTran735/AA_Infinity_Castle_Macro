@@ -11,7 +11,7 @@
 - Go into settings and change your display to 1920 x 1080 and 100% scale.
 
 ### Step 3
-- Download the macro from the [GitHub repository](https://github.com/ThuyTran735/AA-Captcha-Bypass-Halloween/tree/main).
+- Download the macro from the [GitHub repository](https://github.com/ThuyTran735/AA_Infinity_Castle_Macro).
 - On the page, click the green "Code" button, then click "Download ZIP".
 
 ### Step 4 (**VERY IMPORTANT**)
