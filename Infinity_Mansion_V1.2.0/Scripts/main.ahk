@@ -20,7 +20,7 @@ global ceo_maxed_3 := 0
 global return_click := 0
 
 ; Create the main GUI
-main := Gui("+AlwaysOnTop", "V1.1.0")
+main := Gui("+AlwaysOnTop", "V1.2.0")
 
 ; Create the options GUI
 options := Gui("+AlwaysOnTop", "Options")
