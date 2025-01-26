@@ -25,7 +25,7 @@ global return_click := 0
 Global Go_To_Infinity_Mansion_Check := true
 
 ; Create the main GUI
-main := Gui("+AlwaysOnTop", "V1.6.0")
+main := Gui("+AlwaysOnTop", "V1.6.1")
 
 ; Create the options GUI
 options := Gui("+AlwaysOnTop", "Options")
